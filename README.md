@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Abid 
 
-### Cloud Engineer | Computer Networks Graduate Student | AI & Infrastructure Enthusiast
+### Cloud Engineer | Meng in Computer Networks | Infrastructure Enthusiast
 
 [![Email](https://img.shields.io/badge/Email-contact-red?style=for-the-badge\&logo=protonmail)](mailto:abidtmu@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/abidinfra)
