@@ -64,11 +64,9 @@
 
 </div>
 
-## 📊 GitHub Statistics
+## Language Statistics:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abidinfra&show_icons=true&theme=tokyonight" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidinfra&layout=compact&theme=tokyonight" />
