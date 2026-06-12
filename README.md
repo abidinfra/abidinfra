@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Abid Khan
+# 👋 Hi, I'm Abid 
 
 ### Cloud Engineer | Computer Networks Graduate Student | AI & Infrastructure Enthusiast
 
