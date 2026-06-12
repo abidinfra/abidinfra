@@ -50,17 +50,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abidinfra&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidinfra&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🧱 3D Contribution Graph
 
@@ -73,3 +63,15 @@
 ### Always Learning • Always Building
 
 </div>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abidinfra&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidinfra&layout=compact&theme=tokyonight" />
+</p>
+
+---
