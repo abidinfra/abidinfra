@@ -45,15 +45,7 @@
 - Network Automation Scripts
 - Computer Vision Research Projects
 
-</details>
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
-
----
 ## 🧱 Contribution Graph
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
