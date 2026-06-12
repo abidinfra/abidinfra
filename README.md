@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Abid 
+# Hi, I'm Abid 
 
 ### Cloud Engineer @Vosyn Inc. | Meng in Computer Networks | Infrastructure Enthusiast
 
@@ -12,7 +12,7 @@
 ---
 
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Cloud & Infrastructure
 
@@ -35,7 +35,7 @@
 ---
 
 <details>
-<summary><b>🚀 Featured Projects</b></summary>
+<summary><b> Featured Projects</b></summary>
 
 <br>
 
@@ -54,7 +54,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
 
 ---
-## 🧱 3D Contribution Graph
+## 🧱 Contribution Graph
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -66,7 +66,7 @@
 
 </div>
 
-## Language Statistics:
+## Statistics:
 
 
 
