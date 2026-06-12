@@ -11,7 +11,7 @@
 
 ---
 
-<detail>
+
 ##  Tech Stack
 
 ### Cloud & Infrastructure
@@ -44,7 +44,7 @@
 - OpenStack Home Lab
 - Network Automation Scripts
 - Computer Vision Research Projects
-</details>
+
 
 ## 🧱 Contribution Graph
 
