@@ -12,7 +12,7 @@
 ---
 
 
-##  Tech Stack
+##  <b> Tech Stack </b>
 
 ### Cloud & Infrastructure
 
@@ -33,7 +33,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 
 ---
-</details>
+
 <details>
 <summary><b> Featured Projects</b></summary>
 
@@ -44,7 +44,7 @@
 - OpenStack Home Lab
 - Network Automation Scripts
 - Computer Vision Research Projects
-
+</details>
 
 ## 🧱 Contribution Graph
 
