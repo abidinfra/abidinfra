@@ -11,15 +11,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-* 🎓 MEng in Computer Networks at Toronto Metropolitan University
-* ☁️ Cloud Engineer with interests in AWS, OpenStack, Linux, and Infrastructure
-* 🌐 Passionate about Networking, Automation, and Distributed Systems
-* 🤖 Background in AI and Computer Vision research
-* 🚀 Currently building cloud and network engineering projects
-
----
 
 ## 🛠 Tech Stack
 
