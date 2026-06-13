@@ -4,7 +4,7 @@
 
 ### Cloud Engineer @Vosyn Inc. | Meng in Computer Networks | Infrastructure Enthusiast
 
-[![Email](https://img.shields.io/badge/Email-contact-red?style=for-the-badge\&logo=protonmail)](mailto:abidtmu@pm.me)
+[![Email](https://img.shields.io/badge/Email-contact-red?style=for-the-badge\&logo=protonmail)](mailto:abidtmu@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/abidinfra)
 
 </div>
