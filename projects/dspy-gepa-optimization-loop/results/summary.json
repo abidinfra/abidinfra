@@ -1,0 +1,39 @@
+{
+  "judge_comparison": {
+    "n": 24,
+    "legacy_accuracy": 1.0,
+    "strong_accuracy": 1.0,
+    "legacy_relative_cost": 1.0,
+    "strong_relative_cost": 1.65,
+    "selected": "gemba-mqm-feature-judge-v2"
+  },
+  "rrwa_stability": {
+    "single_scores": [0.9909658588346303, 0.997467829106432, 1, 1, 0.9730782927068597, 0.9791955374328492, 0.993405960499161, 1, 0.9798363113737907, 1],
+    "rrwa_batches": [0.9962655203699127, 0.9954921969346064, 0.9954298719505438, 0.997766661898549, 0.9975789413861832, 0.9974448343386002, 0.9964169220089084, 0.9998479140922019, 0.9996070995773834, 0.9945036784404766],
+    "single_stdev": 0.010302229604249475,
+    "rrwa_stdev": 0.001759600069666161,
+    "reduction_factor": 5.8548699683809735
+  },
+  "directions": {
+    "en_to_yue": {
+      "split": {"train": 18, "validation": 6, "test": 6},
+      "baseline_score": 0.4338231763186187,
+      "optimized_score": 0.9981401541198095,
+      "absolute_improvement": 0.5643169778011907,
+      "relative_improvement_pct": 130.07995160376854,
+      "baseline_hard_fail_rate": 0.0,
+      "optimized_hard_fail_rate": 0.0,
+      "optimizer": {"winner": "fidelity_only", "candidate_scores": {"baseline": 0.4965404269262037, "locale_only": 0.4965404269262037, "fidelity_only": 0.9768741456244573, "combined": 0.9768741456244573}}
+    },
+    "en_to_zh": {
+      "split": {"train": 18, "validation": 6, "test": 6},
+      "baseline_score": 0.33869744731903756,
+      "optimized_score": 0.998394858481554,
+      "absolute_improvement": 0.6596974111625165,
+      "relative_improvement_pct": 194.77484001853475,
+      "baseline_hard_fail_rate": 0.16666666666666666,
+      "optimized_hard_fail_rate": 0.0,
+      "optimizer": {"winner": "fidelity_only", "candidate_scores": {"baseline": 0.4421265008619401, "locale_only": 0.5568212767514346, "fidelity_only": 0.9935376267666637, "combined": 0.9935376267666637}}
+    }
+  }
+}
